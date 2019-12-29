@@ -11,3 +11,4 @@ Add Win+Shift+S to the WKSG (screenshot tool) [179](https://github.com/microsoft
 Replace SVG with software-generated content. [156](https://github.com/microsoft/PowerToys/issues/156)  
 Shortcut sorting [154](https://github.com/microsoft/PowerToys/issues/154)  
 Make shortcut descriptors clickable [152](https://github.com/microsoft/PowerToys/issues/152)  
+Add Win + . (period) for emoji keyboard
